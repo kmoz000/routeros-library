@@ -1,9 +1,9 @@
 RouterOS Scripts
 ================
 
-[![GitHub stars](https://img.shields.io/github/stars/eworm-de/routeros-scripts?logo=GitHub&style=flat&color=red)](https://github.com/eworm-de/routeros-scripts/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/eworm-de/routeros-scripts?logo=GitHub&style=flat&color=green)](https://github.com/eworm-de/routeros-scripts/network)
-[![GitHub watchers](https://img.shields.io/github/watchers/eworm-de/routeros-scripts?logo=GitHub&style=flat&color=blue)](https://github.com/eworm-de/routeros-scripts/watchers)
+[![GitHub stars](https://img.shields.io/github/stars/kmoz000/routeros-library?logo=GitHub&style=flat&color=red)](https://github.com/kmoz000/routeros-library/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/kmoz000/routeros-library?logo=GitHub&style=flat&color=green)](https://github.com/kmoz000/routeros-library/network)
+[![GitHub watchers](https://img.shields.io/github/watchers/kmoz000/routeros-library?logo=GitHub&style=flat&color=blue)](https://github.com/kmoz000/routeros-library/watchers)
 [![required RouterOS version](https://img.shields.io/badge/RouterOS-7.9-yellow?style=flat)](https://mikrotik.com/download/changelogs/)
 [![Telegram group @routeros_scripts](https://img.shields.io/badge/Telegram-%40routeros__scripts-%2326A5E4?logo=telegram&style=flat)](https://t.me/routeros_scripts)
 [![donate with PayPal](https://img.shields.io/badge/Like_it%3F-Donate!-orange?logo=githubsponsors&logoColor=orange&style=flat)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=A4ZXBD6YS2W8J)
@@ -281,8 +281,8 @@ automatically by `global-functions`.
 > to be listed here? There should be a general info page that links here,
 > and documentation for each script. You can start by cloning my
 > [Custom RouterOS-Scripts](https://git.eworm.de/cgit/routeros-scripts-custom/)
-> (or fork on [GitHub](https://github.com/eworm-de/routeros-scripts-custom)
-> or [GitLab](https://gitlab.com/eworm-de/routeros-scripts-custom)) and make
+> (or fork on [GitHub](https://github.com/kmoz000/routeros-library-custom)
+> or [GitLab](https://gitlab.com/kmoz000/routeros-library-custom)) and make
 > your changes. Then please [get in contact](#patches-issues-and-whishlist)...
 
 Removing a script
@@ -315,8 +315,8 @@ Thanks a lot for [past contributions](CONTRIBUTIONS.md)! ❤️
 ### Patches, issues and whishlist
 
 Feel free to contact me via e-mail or open an
-[issue](https://github.com/eworm-de/routeros-scripts/issues) or
-[pull request](https://github.com/eworm-de/routeros-scripts/pulls)
+[issue](https://github.com/kmoz000/routeros-library/issues) or
+[pull request](https://github.com/kmoz000/routeros-library/pulls)
 at github.
 
 ### Donate
@@ -347,11 +347,11 @@ Upstream
 --------
 
 URL:
-[GitHub.com](https://github.com/eworm-de/routeros-scripts#routeros-scripts)
+[GitHub.com](https://github.com/kmoz000/routeros-library#routeros-scripts)
 
 Mirror:
 [eworm.de](https://git.eworm.de/cgit/routeros-scripts/about/)
-[GitLab.com](https://gitlab.com/eworm-de/routeros-scripts#routeros-scripts)
+[GitLab.com](https://gitlab.com/kmoz000/routeros-library#routeros-scripts)
 
 ---
 [⬆️ Go back to top](#top)
