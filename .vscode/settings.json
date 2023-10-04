@@ -1,0 +1,10 @@
+{
+    "editor.codeActionsOnSave": {
+        "source.organizeImports": true,
+        "source.fixAll": true
+    },
+    "terminal.integrated.scrollback": 5000,
+    "diffEditor.maxFileSize": 20,
+    "editor.suggest.showTypeParameters": false,
+    "editor.suggest.filterGraceful": false
+}

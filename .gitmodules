@@ -1,0 +1,3 @@
+[submodule "routerOsSDK"]
+	path = routerOsSDK
+	url = https://github.com/kmoz000/routerOsSDK.git
